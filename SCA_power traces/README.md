@@ -3,15 +3,15 @@ This directory contains the SCA power traces generated from SAKURA-X boards.
 
 # Directory Structure
 ├── TVLA on Gaussian Elimination
-│   ├── GEF_protected_m0_fixed
-│   ├── GEF_protected_m1_random
-│   ├── GEF_unprotected_m0_fixed
-│   ├── GEF_unprotected_m1_random
+│  ├── GEF_protected_m0_fixed
+│  ├── GEF_protected_m1_random
+│  ├── GEF_unprotected_m0_fixed
+│  ├── GEF_unprotected_m1_random
 ├── TVLA on additive FFT
-│   ├── FFT_protected_m0_fixed
-│   ├── FFT_protected_m1_random
-│   ├── FFT_unprotected_m0_fixed
-│   ├── FFT_unprotected_m1_random
+│  ├── FFT_protected_m0_fixed
+│  ├── FFT_protected_m1_random
+│  ├── FFT_unprotected_m0_fixed
+│  ├── FFT_unprotected_m1_random
 ├── READE.md
 
 
