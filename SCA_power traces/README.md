@@ -2,13 +2,7 @@
 This directory contains the SCA power traces generated from SAKURA-X boards.
 
 # Directory Structure
-├── README.md
-├── layout_encap.pdf
-├── tvla_FFT_protected.pdf
-├── tvla_FFT_unprotected.pdf
-├── tvla_GEF_protected.pdf
-└── tvla_GEF_unprotected.pdf
-
+```
 ├── TVLA on Gaussian Elimination
   ├── GEF_protected_m0_fixed
   ├── GEF_protected_m1_random
@@ -20,7 +14,7 @@ This directory contains the SCA power traces generated from SAKURA-X boards.
   ├── FFT_unprotected_m0_fixed
   ├── FFT_unprotected_m1_random
 ├── READE.md
-
+```
 
 # Description
 * GEF_protected_m0_fixed: power traces with SCA countermeasures, Test Vector Leakage Analysis (TVLA) fixed t-test
