@@ -2,7 +2,6 @@
 This directory contains the SCA power traces generated from SAKURA-X boards.
 
 # Directory Structure
-.
 ├── README.md
 ├── layout_encap.pdf
 ├── tvla_FFT_protected.pdf
