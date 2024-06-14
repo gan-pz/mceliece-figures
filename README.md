@@ -8,8 +8,7 @@ This repository contains supplementary material for the paper entitled **"Classi
 ├───diagrams
 └───SCA_setup
 └───SCA_power traces
-    ├── TVLA on Gaussian Elimination
-    ├── TVLA on additive FFT
+
 ```
 
 # Folders
