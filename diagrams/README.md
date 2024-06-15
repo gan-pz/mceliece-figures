@@ -1,5 +1,5 @@
 # Diagrams
-This directory contains diagrams generated for TVLA and ASIC layout.
+This directory contains diagrams generated for TVLA and ASIC layout
 
 # Directory Structure
 ```

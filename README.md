@@ -5,13 +5,14 @@ This repository contains supplementary material for the paper entitled **"Classi
 
 # Repository Structure
 ```
-├───diagrams
-└───SCA_setup
-└───SCA_power traces
-
+.
+├── README.md
+├── SCA_power_traces
+├── SCA_setup
+└── diagrams
 ```
 
 # Folders
-* "diagrams": Diagrams generated for TVLA and ASIC layout.
-* "SCA_setup": Diagrams of TVLA test set up.
-* "SCA_power traces": Side-channel power traces colletecd from TVLA test using SAKURA-X boards.
+* [diagrams/](./diagrams/)": Diagrams generated for TVLA and ASIC layout
+* [SCA_setup/](./SCA_setup/): Diagrams of TVLA test set up
+* [SCA_power_traces/](./SCA_power_traces/): Side-channel power traces colletecd from TVLA test using SAKURA-X boards
