@@ -13,6 +13,6 @@ This repository contains supplementary material for the paper entitled **"Classi
 ```
 
 # Folders
-* [diagrams/](./diagrams/)": Diagrams generated for TVLA and ASIC layout
-* [SCA_setup/](./SCA_setup/): Diagrams of TVLA test set up
+* [diagrams/](./diagrams/): Diagrams generated for TVLA results and ASIC layout
+* [SCA_setup/](./SCA_setup/): Images of TVLA test set-up
 * [SCA_power_traces/](./SCA_power_traces/): Side-channel power traces colletecd from TVLA test using SAKURA-X boards
