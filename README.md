@@ -1,6 +1,6 @@
 # McEliece Figures
 
-This repository contains supplementary material for the paper entitled **"Classic McEliece Hardware Implementation with Enhanced Side-Channel and Fault Resistance"** by Gan et al.
+This repository contains supplementary material for the paper entitled **"Classic McEliece Hardware Implementation with Enhanced Side-Channel and Fault Resistance"** ([archieved version](https://www.techrxiv.org/users/795459/articles/1113924-classic-mceliece-hardware-implementation-with-enhanced-side-channel-and-fault-resistance)) by Gan et al.
 
 
 # Repository Structure
